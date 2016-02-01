@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/leggsimon/react-tutorial/issues"
   },
-  "homepage": "https://github.com/leggsimon/react-tutorial#readme"
+  "homepage": "https://github.com/leggsimon/react-tutorial#readme",
+  "dependencies": {
+    "ejs": "^2.4.1",
+    "express": "^4.13.4"
+  }
 }
